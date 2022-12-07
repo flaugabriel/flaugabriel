@@ -1,9 +1,8 @@
+<h3> :man: &nbsp;Olá seja bem vindo! </h3>
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+<h4>Sobre mim</h4>
 
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e me desenvolvendo à cada dia aplicando soluções de software (Web/Mobile).
 - 🎓 &nbsp; Bacharelado em Sistemas de Informação pela <a href="https://faculdadesapiens.edu.br">Faculdade Sapiens</a>.
 - 💼 &nbsp; Trabalhando como FULL-STACK Ruby on Rails, React, Flutter
 - 🌱 &nbsp; Aprendendo mais sobre AWS, Redis, React, Flutter e Engenharia de software e qualidade de sistemas.
