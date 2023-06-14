@@ -23,8 +23,8 @@
 
 **Ferramentas de Desenvolvimento**
 
-  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,linux&theme=light)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=idea,postman,vscode,linux&theme=light)](https://skillicons.dev)
+ 
 <br/>
 
 <a href="https://github.com/flaugabriel">
