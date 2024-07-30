@@ -11,7 +11,7 @@
 
 **Aplicações e Dados**
 
-  [![My Skills](https://skillicons.dev/icons?i=ruby,java,nodejs,rails,javascript,react,html,css,redis,flutter,mysql,postgres,mongodb,dart&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ruby,java,nodejs,rails,javascript,react,html,css,redis,flutter,mysql,postgres,mongodb,golang,dart&theme=light)](https://skillicons.dev)
 
 **Utilidades**
 
